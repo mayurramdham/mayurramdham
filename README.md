@@ -52,7 +52,6 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurramdham&langs_count=6&layout=compact&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api?username=mayurramdham&show_icons=true&theme=radical" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurramdham&layout=compact&theme=radical" height="180px" />
 
