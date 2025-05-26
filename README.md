@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayur — a .NET Full-Stack Developer</h1>
 
 <p align="center">
+
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Modern+Full-Stack+Developer;ASP.NET+Core+%7C+Angular+18+%7C+SQL+Server;Exploring+GenAI+%7C+Prompt+Engineering;Loves+Clean+Architecture+%26+Real-World+Projects;Let%E2%80%99s+Code+Awesome+Stuff!&font=Fira+Code&pause=1000&color=00FCA8&size=20" />
 </p>
 
@@ -12,9 +13,9 @@
 
 ### 👨‍💻 About Me
 
-- 💡 I’m learning **.NET Core**, **Angular 18**, **Clean Architecture**, **SQL Server**
+- ✅ Experienced in **.NET Core**, **Angular 18**, **Clean Architecture**, **SQL Server**
 - 🧠 Actively exploring **GenAI**, **LLMs**, and **Prompt Engineering**
-- 🛠️ Building real-world apps with **Stripe**, **JWT Auth**, **WebRTC**, and more
+- 🛠️ Built real-world apps with **Stripe**, **JWT Auth**, **WebRTC**, **OAuth Login**, and more
 - 📫 Reach me at: **mayurramdham02@gmail.com**
 
 ---
@@ -41,17 +42,20 @@
 
 | 🚀 Project | 💻 Tech Stack | 📄 Description |
 |-----------|---------------|----------------|
-| [🏥 Hospital Management System](https://github.com/yourusername/hospital-management) | Angular + ASP.NET Core + SQL | Role-based auth, CRUD, Clean Architecture |
-| [🛒 E-Commerce App](https://github.com/yourusername/ecommerce-app) | Angular + Stripe + .NET | Product listings, cart, secure payments |
-| [📞 Video Call & Recording App](https://github.com/yourusername/video-calling-app) | Angular + ASP.NET Core + WebRTC | Real-time video, screen sharing, call recording |
+| [🏥 Hospital Management System](https://github.com/mayurramdham/hospital-management) | Angular + ASP.NET Core + SQL | Role-based auth, CRUD, Clean Architecture |
+| [🛒 E-Commerce App](https://github.com/mayurramdham/ecommerce-app) | Angular + Stripe + .NET | Product listings, cart, secure payments |
+| [🎬 Full-Stack Movie App](https://github.com/mayurramdham/movie-app) | Angular + ASP.NET Core + OAuth | Google/Microsoft login, Role-based access, Admin-only movie downloads, Clean Architecture |
 
 ---
 
 ### 📈 GitHub Stats
 
 <div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurramdham&langs_count=6&layout=compact&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurramdham02&layout=compact&theme=radical" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mayurramdham&show_icons=true&theme=radical" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurramdham&layout=compact&theme=radical" height="180px" />
+
 </div>
 
 ---
