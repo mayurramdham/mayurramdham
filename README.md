@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mayur — a .NET Full-Stack Developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Modern+Full-Stack+Developer;Experienced+in+ASP.NET+Core+%7C+Angular+18+%7C+SQL+Server;Exploring+GenAI+%7C+LLMs+%7C+Prompt+Engineering;Love+Clean+Architecture+%26+Real-World+Projects;Let%E2%80%99s+Code+Something+Awesome+Together!&font=Fira+Code&pause=1000&color=00FCA8&center=true&vCenter=true&size=22" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Modern+Full-Stack+Developer;ASP.NET+Core+%7C+Angular+18+%7C+SQL+Server;Exploring+GenAI+%7C+Prompt+Engineering;Loves+Clean+Architecture+%26+Real-World+Projects;Let%E2%80%99s+Code+Awesome+Stuff!&font=Fira+Code&pause=1000&color=00FCA8&size=20" />
 </p>
 
 <p align="center">
@@ -50,8 +51,11 @@
 ### 📈 GitHub Stats
 
 <div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurramdham&langs_count=6&layout=compact&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api?username=mayurramdham&show_icons=true&theme=radical" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurramdham&layout=compact&theme=radical" height="180px" />
+
 </div>
 
 ---
